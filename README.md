@@ -42,3 +42,10 @@ locals {
   rendered_template = "${module.template.rendered}"
 }
 ```
+
+```
+template.mustache:
+{{#items}}
+- Foo is {{foo}}
+{{/items}}
+```
