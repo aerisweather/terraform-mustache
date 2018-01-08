@@ -1,6 +1,6 @@
 # Terraform `mustache` module
 
-Renders mustache templates within terraform
+Renders [mustache](https://mustache.github.io/) templates within terraform
 
 ## Why?
 
