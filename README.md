@@ -1,6 +1,8 @@
 # Terraform `mustache` module
 
-Renders [mustache](https://mustache.github.io/) templates within terraform
+Renders [mustache](https://mustache.github.io/) templates within terraform. 
+
+For a nice, compact implemenation (3.4M) of the mustache template engine, see: https://github.com/quantumew/mustache-cli
 
 ## Why?
 
