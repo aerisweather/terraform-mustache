@@ -2,7 +2,7 @@
 
 Renders [mustache](https://mustache.github.io/) templates within terraform. 
 
-For a nice, compact implemenation (3.4M) of the mustache template engine, see: https://github.com/quantumew/mustache-cli
+For a nice, compact implemenation (3.4M) of the mustache template engine, see: [quantumew/mustache-cli](https://github.com/quantumew/mustache-cli)
 
 ## Why?
 
